@@ -41,8 +41,8 @@ Here are some of the things we are working on:
 ### 🌟 Active Development
 - **[KawaiiAD]**: *A confirmation-based advertisement plugin with rank cooldowns and PAPI support.*
 
-### 📚 Libraries
-- **[KawaiiLib]**: *Our internal utility library for rapid plugin development.* (soon)
+### 📚 Libraries & API's
+- **[KawaiiAPI]**: *Our internal utility API for rapid plugin development.*
 
 ---
 
